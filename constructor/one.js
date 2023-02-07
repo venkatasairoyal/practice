@@ -1,7 +1,7 @@
 class Account {
     min_Bal = 500;
     acc_Bal = 0;
-    acc_Name = ""
+    acc_Name = "anu"
     set_AccontName(name) {
         this.acc_Name = name
     }
